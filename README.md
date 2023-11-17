@@ -329,4 +329,4 @@ Sadly, you can't remove Slack (yet?). If you dare to remove it, Outline will scr
 
 ## Conclusion
 
-Feel free to make a "change requests" (I don't know how they work at the moment, I'll see) if you find a typo or a thing that deserves to be more detailled.
+Feel free to make a pull request [here](https://github.com/DimitriDR/dead-simple-tutorials-outline), if you find a typo or a thing that deserves to be more detailed.
